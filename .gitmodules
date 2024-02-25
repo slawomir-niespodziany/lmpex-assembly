@@ -1,0 +1,18 @@
+[submodule "lmp"]
+	path = lmp
+	url = git@github.com:slawomir-niespodziany/linkable-module-pattern.git
+[submodule "broker"]
+	path = broker
+	url = git@github.com:slawomir-niespodziany/lmpex-broker.git
+[submodule "sat_link"]
+	path = sat_link
+	url = git@github.com:slawomir-niespodziany/lmpex-sat_link.git
+[submodule "gsm_link"]
+	path = gsm_link
+	url = git@github.com:slawomir-niespodziany/lmpex-gsm_link.git
+[submodule "eth_link"]
+	path = eth_link
+	url = git@github.com:slawomir-niespodziany/lmpex-eth_link.git
+[submodule "abstract_link"]
+	path = abstract_link
+	url = git@github.com:slawomir-niespodziany/lmpex-abstract_link.git
